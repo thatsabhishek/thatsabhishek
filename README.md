@@ -26,7 +26,7 @@
 
 
 ## Github Stats 📊
-![Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thatsmanmeet&theme=nord_dark)
+![Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thatsabhishek&theme=nord_dark)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=thatsabhishek&theme=nord&border_radius=5.1)](https://git.io/streak-stats)
 ![abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=thatsabhishek&show_icons=true&theme=nord)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thatsabhishek&layout=compact&theme=nord)
