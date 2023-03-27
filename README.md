@@ -1,6 +1,10 @@
 <h1 align="center">Hey 👋, I'm Abhishek</h1>
 <h3 align="center" style="color:green;">Computer Science & Engineering Student</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=thatsabhishek&label=Profile%20views&color=0e75b6&style=flat" alt="thatsabhishek"/></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=thatsabhishek&label=Profile%20views&color=0e75b6&style=flat" alt="thatsabhishek"/>
+  <img src="https://img.shields.io/github/followers/thatsabhishek.svg?style=social&label=Follow me&maxAge=2592000" alt="follow me" />
+</p>
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 <br/>  
   
