@@ -5,10 +5,10 @@
 
 void about(){
   char name = "Abhishek Gupta"
-  char bio = "Computer Science Student"
+  char bio = "Computer Science Student who loves to code and learn"
   char interests = ['Data Science ','Machine Learning']
   char languages = ['Python','C++','C']
-  char learning = ['Python','DSA','Swift']
+  char learning = ['Python','DSA','Machine Learning','Data Science']
   // Please follow me!
   if (follow == false){
       followMe();
